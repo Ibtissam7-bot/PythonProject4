@@ -20,7 +20,6 @@ print(new_tab)
 tableau1=np.array([0,1,11,13,15])
 tableau2=np.array([0,12,11,14,15])
 ind_diff= np.where(tableau1 != tableau2)[0]
-
 print(ind_diff)
 for i in ind_diff:
     print(f"La valeur correspondante à l'indice {i}: Dans tableau1 {tableau1[i]}, Dans tableau2 {tableau2[i]}")

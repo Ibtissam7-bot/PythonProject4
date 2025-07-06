@@ -1,0 +1,3 @@
+Ligne 1 : Bonjour
+Ligne 2 : Monsieur
+Ligne 3 : Fin du fichier
